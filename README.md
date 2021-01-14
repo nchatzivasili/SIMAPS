@@ -7,7 +7,7 @@ Semantic interoperability provides also a common understanding of the data, by u
 
 On completion of the survey, the public service owners receive tailored feedback and recommendations on how to further improve their service in terms of semantic interoperability.
 
-SIMAPS serves complementary to the IMAPS survey and its use is recommended in conjunction with IMAPS, to vertically assess the behavioural aspects of a digital public service, from the semantic interoperability viewpoint.
+SIMAPS serves complementary to the IMAPS survey and its use is recommended in conjunction with IMAPS, to vertically assess the behavioural aspects of a digital public service, from the semantic interoperability viewpoint. You may visit the latest vesrion of the IMAPS questionnare here: https://ec.europa.eu/eusurvey/runner/IMAPS-v1_2_0 and the respective documentation can be found in this link https://joinup.ec.europa.eu/collection/imaps-interoperability-maturity-assessment-public-service/solution/imaps/release/v120
 
 SIMAPS is fully compliant with the latest version of the European Interoperability Framework (EIF).
 
