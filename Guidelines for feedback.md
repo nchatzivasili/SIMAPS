@@ -6,12 +6,12 @@ Please find below indicative questions to base your feedback:
 
 3. Do you think that there is any item (question) missing? (Yes/No | Rationale)
 
-4. IMAPS team suggests to add an item related to the EIRA v3.1.0 ABB ‘Data Mapping’. Do you have any suggestions? (Yes/No | Rationale)
+4. IMAPS team suggests to add an item related to the EIRA v4.1.0 ABB ‘Data Mapping’. Do you have any suggestions? (Yes/No | Rationale)
 
  Note: The EIRA ABB ‘Data mapping' is an equivalence relationship between two data items with ontological value.
  More Info: [https://joinup.ec.europa.eu/taxonomy/term/http_e_f_fdata_ceuropa_ceu_fdr8_fDataMapping]
 
-5. IMAPS team suggests to add an item related to the EIRA v3.1.0 ABB ‘Core Data Model’. Do you have any suggestions? (Yes/No | Rationale)
+5. IMAPS team suggests to add an item related to the EIRA v4.1.0 ABB ‘Core Data Model’. Do you have any suggestions? (Yes/No | Rationale)
 
  Note: The EIRA ABB ‘Core data model' is a context-neutral data model that captures the fundamental characteristics of an entity or a core set of entities
  More Info: [https://joinup.ec.europa.eu/taxonomy/term/http_e_f_fdata_ceuropa_ceu_fdr8_fCoreDataModel]
